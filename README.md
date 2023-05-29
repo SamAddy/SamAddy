@@ -3,6 +3,7 @@
 <p> I am a passionate web developer and security engineer. 
 
 ### Languages
+
 [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/SamAddy)
 [![C++](https://img.shields.io/badge/c++-black?style=for-the-badge&logo=c++)](https://github.com/SamAddy)
 [![Javascript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/SamAddy)
@@ -13,6 +14,7 @@
 [![PostgreSQL](https://img.shields.io/badge/postgresql-black?style=for-the-badge&logo=postgresql)](https://github.com/SamAddy)
 
 ### Technologies & Frameworks
+
 [![Django](https://img.shields.io/badge/django-black?style=for-the-badge&logo=django)](https://github.com/SamAddy)
 [![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)](https://github.com/SamAddy)
 [![Redux](https://img.shields.io/badge/redux-black?style=for-the-badge&logo=redux)](https://github.com/SamAddy)
@@ -22,7 +24,6 @@
 [![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker)](https://github.com/SamAddy)
 [![Git](https://img.shields.io/badge/git-black?style=for-the-badge&logo=git)](https://github.com/SamAddy)
 [![GitLab](https://img.shields.io/badge/gitlab-black?style=for-the-badge&logo=gitlab)](https://github.com/SamAddy)
-[![Azure](https://img.shields.io/badge/azure-black?style=for-the-badge&logo=azure)](https://github.com/SamAddy)
 
 <details>
 <p align="center">
