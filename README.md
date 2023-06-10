@@ -37,13 +37,13 @@
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=samaddy&theme=transparent" />
     </a>
     <a href="https://github.com/SamAddy">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samaddy&langs_count=10&exclude_repo=&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html&layout=default&card_width=699&hide_border=true&theme=transparent" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samaddy&hide_progress=true" />
     </a>
 </p>
 </details>
 <!--
 - 👀 I’m interested in 
-- 🌱 I’m currently learning studying Cyber Security at University of Turku
+- 🌱 I’m currently learning
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 -->
