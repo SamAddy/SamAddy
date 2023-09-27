@@ -1,4 +1,4 @@
-<h1> Hi, I’m Samuel Addison 👋🏿 </h1>
+<h1> Hi, I’m Samuel K. Addison 👋🏿 </h1>
 
 <p> I am a passionate web developer and security engineer. 
 
@@ -6,6 +6,7 @@
 
 [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/SamAddy)
 [![C++](https://img.shields.io/badge/c++-black?style=for-the-badge&logo=c++)](https://github.com/SamAddy)
+[![C#](https://img.shields.io/badge/csharp-black?style=for-the-badge&logo=csharp)](https://github.com/SamAddy)
 [![Javascript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/SamAddy)
 [![Typescript](https://img.shields.io/badge/typescript-black?style=for-the-badge&logo=typescript)](https://github.com/SamAddy)
 [![PHP](https://img.shields.io/badge/php-black?style=for-the-badge&logo=php)](https://github.com/SamAddy)
