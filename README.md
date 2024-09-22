@@ -1,6 +1,6 @@
 <h1> Hi, I’m Samuel K. Addison 👋🏿 </h1>
 
-<p> I am a passionate web developer and security engineer. 
+<p> I am a passionate sofware and security engineer. 
 
 ### Languages
 
